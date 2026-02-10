@@ -1,6 +1,5 @@
 import os
 import asyncio
-import requests
 import chainlit as cl
 from pydantic import BaseModel
 from dotenv import load_dotenv, find_dotenv
