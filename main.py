@@ -1,6 +1,5 @@
 import os
 import asyncio
-import httpx
 import requests
 import chainlit as cl
 from pydantic import BaseModel
